@@ -1,4 +1,5 @@
-// Tauri 运行时类型声明
+export {};
+
 declare global {
   interface Window {
     __TAURI__?: {
