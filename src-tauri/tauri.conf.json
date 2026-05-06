@@ -10,10 +10,9 @@
     "beforeBuildCommand": "npm run build:ui"
   },
   "app": {
-    "title": "PolyAI · 多模型调度台",
     "windows": [
       {
-        "title": "PolyAI",
+        "title": "PolyAI · 多模型调度台",
         "width": 1400,
         "height": 900,
         "resizable": true,
